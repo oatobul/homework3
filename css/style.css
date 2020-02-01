@@ -10,6 +10,7 @@ Make sure to learn what the starter code does!!
 
 body{
   background-image: url(../images/pigeon-background.jpeg);
+  background-repeat: no-repeat;
   background-color: #DDDDDD;
   font-family: Andika,sans-serif;
   font-size: 16px;
